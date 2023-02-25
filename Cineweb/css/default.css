@@ -1,0 +1,42 @@
+header {
+    background-color: #410404;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+
+}
+  
+nav li {
+    display: inline-block;
+    margin-right: 20px;
+
+}
+
+nav a {
+    display: block;
+    padding: 10px;
+    border: 1px solid #ccc;
+    background-color: #fff;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+
+nav a {
+    background-color: rgb(141, 35, 35);
+    color: #ffffff;
+}
+
+h1 {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 45px;
+}
+
+body {
+    background-color: rgb(36, 36, 36);
+}

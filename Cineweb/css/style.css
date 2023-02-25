@@ -1,0 +1,36 @@
+
+.lançamento {
+    margin-top: 50px;
+    text-align: left;
+}
+.lançamento h2 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: #fff;
+    text-align: center;
+}
+.lançamento ul {
+    list-style: none;
+    padding: 0;
+}
+.lançamento li {
+    display: inline-block;
+    margin-right: 20px;
+    text-align: left;
+    vertical-align: top;
+    width: 200px;
+}
+.lançamento li img {
+    display: block;
+    margin-bottom: 10px;
+    max-width: 100%;
+    height: auto;
+}
+.lançamento h3 {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: #fff;
+    text-align: center;
+}
